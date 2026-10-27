@@ -1,0 +1,24 @@
+# Abu Saleh — أبو صالح
+
+A bilingual (Arabic RTL / English LTR) website for Abu Saleh Group, a Jordanian coffee,
+fresh juice, milkshake and dessert brand founded in 1991.
+
+## About
+
+- Founded: 1991, Amman, Jordan, by Mr. Mohammad Burghol
+- Cuisine: fresh juices, milkshakes, ice cream, desserts, crepes, waffles, specialty coffee
+- Presence: 14 branches in Jordan, 5 in Saudi Arabia, 1 in Turkey
+- Contact: info@abusalehgroup.com · +962 (6) 4200-050
+
+## Sections
+
+- `/` — hero beverage carousel and highlights
+- `/menu` — searchable, filterable menu of 110 products with Arabic and English names and JOD prices
+- `/story` — company history, mission, vision and values
+- `/locations` — verified branch finder with map directions
+- `/contact` — phone, email, address, business hours and contact form
+
+## Data sources
+
+- Official menu feed: https://menu.abusalehgroup.com/menu/ar
+- Official website: https://www.abusalehgroup.com/
